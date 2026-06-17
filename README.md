@@ -32,43 +32,72 @@ CSV Dataset – Customer Shopping Behavior Data
 📂 Dataset Information
 
 The dataset contains customer shopping information, including:
+
 Customer ID
+
 Age
+
 Gender
+
 Product Category
+
 Purchase Amount
+
 Review Rating
+
 Subscription Status
+
 Shipping Type
+
 Payment Method
 Discount Applied
+
 Purchase Frequency
 
 📊 Dashboard Features
 
 KPI Cards
+
 Average Purchase Amount: 59.76
+
 Total Customers: 3.9K
+
 Average Review Rating: 3.75
+
 Visualizations
+
 Revenue by Category
+
 Sales by Category
+
 Customer Distribution by Subscription Status
+
 Revenue by Age Group
+
 Number of Customers by Age Group
+
 Interactive Filters (Slicers)
+
 Subscription Status
+
 Gender
+
 Product Category
+
 Shipping Type
 
 📈 Key Insights
 
 Clothing generates the highest revenue and sales among all categories.
+
 Accessories is the second-highest revenue-generating category.
+
 Around 92.7% of customers are non-subscribers, while only 7.3% are subscribed.
+
 The Young Adult age group contributes the highest revenue.
+
 Customer ratings average 3.75, indicating generally positive shopping experiences.
+
 The business has approximately 3,900 customers in the dataset.
 
 
@@ -87,44 +116,67 @@ Customer-Behavior-Analysis/
 🚀 Steps Performed
 
 Collected customer shopping behavior dataset.
+
 Cleaned and preprocessed data using Python.
+
 Performed SQL queries for data analysis.
+
 Imported the cleaned dataset into Power BI.
+
 Created data relationships and calculated measures.
+
 Designed interactive dashboard using charts, cards, and slicers.
+
 Generated business insights for decision-making.
 
 💼 Business Use Cases
 
 Customer Segmentation
+
 Sales Performance Analysis
+
 Marketing Campaign Planning
+
 Product Category Performance
+
 Customer Retention Strategy
+
 Revenue Optimization
 
 📚 Skills Demonstrated
 
 Data Cleaning
+
 SQL Query Writing
+
 Data Modeling
+
 DAX Measures
+
 Power BI Dashboard Design
+
 Data Visualization
+
 Business Intelligence
+
 Analytical Thinking
 
 🔮 Future Improvements
 
 Add customer lifetime value (CLV) analysis.
+
 Build customer segmentation using RFM analysis.
+
 Include sales forecasting.
+
 Add geographic and regional sales analysis.
+
 Create predictive customer churn models.
 
 👩‍💻 Author
 
 Shivkanya Ladekar
+
 Role: Data Analyst
 
 ⭐ Conclusion
