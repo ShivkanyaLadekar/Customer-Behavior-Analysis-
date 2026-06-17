@@ -8,15 +8,25 @@ The Customer Behavior Analysis Dashboard is an interactive Power BI project desi
 🎯 Objectives
 
 Analyze customer purchasing behavior.
+
 Identify top-performing product categories.
+
 Monitor revenue and sales trends.
+
 Understand customer demographics (Age Group & Gender).
+
 Compare subscribed and non-subscribed customers.
+
 Support business decision-making through interactive visualizations.
+
 🛠️ Tools & Technologies Used
+
 Power BI – Dashboard Development & Data Visualization
+
 SQL – Data Extraction & Analysis
+
 Python (Jupyter Notebook) – Data Cleaning & Preprocessing
+
 CSV Dataset – Customer Shopping Behavior Data
 
 📂 Dataset Information
